@@ -1,0 +1,12 @@
+{
+  "name": "Freddo",
+  "version": "0.1.0",
+  "description": "Bot officiel de Freddo",
+  "main": "main.js",
+  "repository": "https://github.com/henrinoidea/Freddo_bot.git",
+  "author": "henrinoidea <henriguyot9@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "discordjs/discord.js"
+  }
+}
